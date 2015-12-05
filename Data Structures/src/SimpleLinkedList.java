@@ -3,7 +3,7 @@ public class SimpleLinkedList {
 
 	public static void main(String main[])
 	{
-		LinkedList thelist = new LinkedList();
+		LinkedList1 thelist = new LinkedList1();
 		Link f;
 		thelist.insertFirst(10, 100);
 		thelist.insertFirst(20, 200);

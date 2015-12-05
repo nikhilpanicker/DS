@@ -1,9 +1,9 @@
 
-public class LinkedList {
+public class LinkedList1 {
 	
 	private Link first;
 	
-	public LinkedList()
+	public LinkedList1()
 	{
 		first = null;
 	}

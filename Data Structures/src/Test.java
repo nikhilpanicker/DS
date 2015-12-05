@@ -3,13 +3,21 @@ public class Test {
 
 	public static void main(String args[])
 	{
-		int input[]={1,1,1,0,1,1,1,1};
-		int days=2;
-		int []arr = cellCompete(input, days);
-		for(int i=0;i<arr.length;i++)
-		{
-			System.out.print(arr[i]);
-		}
+		
+		int a=10;
+		long b =10;
+		float f = 10f;
+		double d = 10;
+		System.out.println((a+b)*(f+d));
+		/* **** */
+		///* test // // ffgf */
+//		int input[]={1,1,1,0,1,1,1,1};
+//		int days=2;
+//		int []arr = cellCompete(input, days);
+//		for(int i=0;i<arr.length;i++)
+//		{
+//			System.out.print(arr[i]);
+//		}
 	}
 
 	public static int[] cellCompete(int[] cells, int days)
